@@ -9,10 +9,10 @@
             <div id="nav">
                 <img src="./IMG/logo.png" id="nav"/>
                 <ul>
-                    <li><a>Accueil</a></li>
-                    <li><a>Projets</a></li>
-                    <li><a>Nous</a></li>
-                    <li><a>Yzq</a></li>
+                    <li><a href="">Accueil</a></li>
+                    <li><a href="">Projets</a></li>
+                    <li><a href="">Nous</a></li>
+                    <li><a href="">Yzq</a></li>
                 </ul>
             </div>
         </nav>
